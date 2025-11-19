@@ -4,10 +4,15 @@ A complete Social Network Analysis project comparing Conspiracy vs Non-Conspirac
 
 This repository includes:
 ✔ Two graph directories (Conspiracy & Non-Conspiracy)
+
 ✔ Full visual network analysis
+
 ✔ Gephi statistics reports
+
 ✔ A professional comparative report
+
 ✔ Node/edge datasets
+
 ✔ Research-focused security insights (fake followers, bot patterns, network manipulation)
 
 
